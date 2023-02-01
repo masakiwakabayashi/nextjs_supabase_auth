@@ -23,7 +23,7 @@ export default function Login() {
 
   return (
     <div className={styles.card}>
-      <h1>パスワード再設定</h1>
+      <h1>パスワード再設定メールの送信</h1>
       <div>
         <Form>
             <FormGroup>
